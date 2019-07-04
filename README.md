@@ -9,6 +9,9 @@ And test with 15-inch Looking Glass.
 
 ## CopyRight and License
 
+I could not find a true license & copyrights holder of Nyan-Cat.
+If this app makes some copyrights trouble, I'll close this asap.
+
 ### NyanCat
 
 This is one of fan-art of NyanCat. I have not any character's copyright.
@@ -17,7 +20,7 @@ So, you must not use this app for commercial. Respect for the original creators.
 - Character Design : PRguitarman
     - https://twitter.com/prguitarman
     - https://www.facebook.com/lolcomicstime/
-- Video : MEANS TV
+- Video : saraj00n / MEANS TV
     - https://www.youtube.com/watch?v=QH2-TGUlwu4
 - Official
     - http://www.nyan.cat/
