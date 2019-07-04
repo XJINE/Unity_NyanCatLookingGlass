@@ -9,7 +9,6 @@ And test with 15-inch Looking Glass.
 
 ## CopyRight and License
 
-I could not find a true license & copyrights holder of Nyan-Cat.
 If this app makes some copyrights trouble, I'll close this asap.
 
 ### NyanCat
