@@ -7,7 +7,7 @@ NyanCat app for Looking Glass. Read Copyright and License.
 This is developed under GTX1060 and i7-7700HQ/2.8GHz laptop PC.
 And test with 15-inch Looking Glass.
 
-## CopyRight and License
+## Copyright and License
 
 If this app makes some copyrights trouble, I'll close this asap.
 
