@@ -12,14 +12,15 @@ And test with 15-inch Looking Glass.
 ### NyanCat
 
 This is one of fan-art of NyanCat. I have not any character's copyright.
-So, you must not use this app for commercial. Keep respect for the original creators.
+So, you must not use this app for commercial. Respect for the original creators.
 
 - Character Design : PRguitarman
     - https://twitter.com/prguitarman
     - https://www.facebook.com/lolcomicstime/
-- Video
+- Video : MEANS TV
     - https://www.youtube.com/watch?v=QH2-TGUlwu4
-- Official?
+- Official
+    - http://www.nyan.cat/
     - https://twitter.com/nyannyancat
 
 ### Looking Glass and the SDK
