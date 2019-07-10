@@ -21,7 +21,7 @@ So, you must not use this app for commercial. Respect for the original creators.
     - https://www.facebook.com/lolcomicstime/
 - Video : saraj00n / MEANS TV
     - https://www.youtube.com/watch?v=QH2-TGUlwu4
-- Official
+- Official : (Original Texture)
     - http://www.nyan.cat/
     - https://twitter.com/nyannyancat
 

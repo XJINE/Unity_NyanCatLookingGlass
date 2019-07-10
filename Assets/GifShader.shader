@@ -56,7 +56,7 @@
 
                 fixed4 color  = UNITY_SAMPLE_TEX2DARRAY(_Textures, float3(i.uv.xy, frameIndex));
 
-                if(color.a == 0) discard;
+                clip(color.a - 0.001);
 
                 return color;
             }
